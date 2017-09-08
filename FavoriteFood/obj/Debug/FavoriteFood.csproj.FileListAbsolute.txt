@@ -1,0 +1,6 @@
+c:\users\eahscs\documents\visual studio 2017\Projects\FavoriteFood\FavoriteFood\bin\Debug\FavoriteFood.exe.config
+c:\users\eahscs\documents\visual studio 2017\Projects\FavoriteFood\FavoriteFood\bin\Debug\FavoriteFood.exe
+c:\users\eahscs\documents\visual studio 2017\Projects\FavoriteFood\FavoriteFood\bin\Debug\FavoriteFood.pdb
+c:\users\eahscs\documents\visual studio 2017\Projects\FavoriteFood\FavoriteFood\obj\Debug\FavoriteFood.csprojResolveAssemblyReference.cache
+c:\users\eahscs\documents\visual studio 2017\Projects\FavoriteFood\FavoriteFood\obj\Debug\FavoriteFood.exe
+c:\users\eahscs\documents\visual studio 2017\Projects\FavoriteFood\FavoriteFood\obj\Debug\FavoriteFood.pdb
