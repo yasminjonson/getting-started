@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStarted", "GettingStarted.csproj", "{68168746-B706-4EC0-9833-1E1CE8345713}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz.csproj", "{68168746-B706-4EC0-9833-1E1CE8345713}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "..\WindowsFormsApp1\WindowsFormsApp1.csproj", "{D5A4A404-715E-4647-8801-78333F5D2EAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max2", "Max2\Max2.csproj", "{0BBF0B2E-144C-414E-B137-AAEDC8079C59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{68168746-B706-4EC0-9833-1E1CE8345713}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68168746-B706-4EC0-9833-1E1CE8345713}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68168746-B706-4EC0-9833-1E1CE8345713}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D5A4A404-715E-4647-8801-78333F5D2EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D5A4A404-715E-4647-8801-78333F5D2EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D5A4A404-715E-4647-8801-78333F5D2EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D5A4A404-715E-4647-8801-78333F5D2EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BBF0B2E-144C-414E-B137-AAEDC8079C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBF0B2E-144C-414E-B137-AAEDC8079C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBF0B2E-144C-414E-B137-AAEDC8079C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBF0B2E-144C-414E-B137-AAEDC8079C59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
