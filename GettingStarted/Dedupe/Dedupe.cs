@@ -23,6 +23,8 @@ namespace Dedupe
             // sort from least to greatest
             Array.Sort(numbers);
 
+            Console.WriteLine(numbers);
+
         }
     }
 }
