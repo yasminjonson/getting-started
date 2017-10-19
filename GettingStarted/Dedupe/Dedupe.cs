@@ -24,6 +24,7 @@ namespace Dedupe
             Array.Sort(numbers);
 
             Console.WriteLine(numbers);
+            
 
         }
     }
