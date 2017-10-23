@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace UniqueDigits
 {
-    class Program
+    class UniqueDigits
     {
         static void Main(string[] args)
         {

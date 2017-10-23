@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AD2CF2CC-78AB-4D0F-AFBA-463B0EF1710C}</ProjectGuid>
+    <ProjectGuid>{831DACBD-94FF-4304-BA17-C750CE7634EC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>UniqueDigits</RootNamespace>
-    <AssemblyName>UniqueDigits</AssemblyName>
+    <RootNamespace>tictactoee</RootNamespace>
+    <AssemblyName>tictactoee</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UniqueDigits.cs" />
+    <Compile Include="TicTacToee.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

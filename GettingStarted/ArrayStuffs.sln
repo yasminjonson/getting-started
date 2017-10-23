@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dedupe", "Dedupe\Dedupe.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueDigits", "..\UniqueDigits\UniqueDigits.csproj", "{AD2CF2CC-78AB-4D0F-AFBA-463B0EF1710C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToee", "..\tictactoee\TicTacToee.csproj", "{831DACBD-94FF-4304-BA17-C750CE7634EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{AD2CF2CC-78AB-4D0F-AFBA-463B0EF1710C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD2CF2CC-78AB-4D0F-AFBA-463B0EF1710C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD2CF2CC-78AB-4D0F-AFBA-463B0EF1710C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831DACBD-94FF-4304-BA17-C750CE7634EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831DACBD-94FF-4304-BA17-C750CE7634EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831DACBD-94FF-4304-BA17-C750CE7634EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831DACBD-94FF-4304-BA17-C750CE7634EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
