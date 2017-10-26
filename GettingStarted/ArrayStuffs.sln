@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.12
+VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz.csproj", "{68168746-B706-4EC0-9833-1E1CE8345713}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueDigits", "..\UniqueDigits\UniqueDigits.csproj", "{AD2CF2CC-78AB-4D0F-AFBA-463B0EF1710C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToee", "..\tictactoee\TicTacToee.csproj", "{831DACBD-94FF-4304-BA17-C750CE7634EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagnosticTester", "..\DiagnosticTester\DiagnosticTester.csproj", "{7E4F6153-F53B-48A0-8567-1EBAE1D84B7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,8 +47,15 @@ Global
 		{831DACBD-94FF-4304-BA17-C750CE7634EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{831DACBD-94FF-4304-BA17-C750CE7634EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{831DACBD-94FF-4304-BA17-C750CE7634EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4F6153-F53B-48A0-8567-1EBAE1D84B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4F6153-F53B-48A0-8567-1EBAE1D84B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4F6153-F53B-48A0-8567-1EBAE1D84B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4F6153-F53B-48A0-8567-1EBAE1D84B7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {953EE448-AED2-48EE-B255-B6C408519E73}
 	EndGlobalSection
 EndGlobal

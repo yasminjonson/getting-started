@@ -1,0 +1,2 @@
+C:\Users\eahscs\Documents\GitHub\getting-started\DiagnosticTester\obj\Debug\DiagnosticTester.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\getting-started\DiagnosticTester\obj\Debug\DiagnosticTester.csproj.CoreCompileInputs.cache
