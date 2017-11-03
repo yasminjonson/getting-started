@@ -9,31 +9,62 @@ namespace DiagnosticTester
     class DiagnosticTester
     {
         static void Main(string[] args)
-        {
+        { }
 
-        public String question;
-        public String[] answers;
-        public int correctAnswer;
+          public String question;
+          public String[] answers;
+          public int correctAnswer;
 
-        public int category;
-        public int level;
+          public int category;
+          public int level;
 
-        public Question(int category, int level, String q, String[] a, int correct)
-        {
-            this.category = category;
-            this.question = q;
-            this.level = level;
+            public Question(int category, int level, String q, String[] a, int correct)
+            {
+               //question
+               this.category = category;
+               this.question = q;
+               this.level    = level;
+              
+               //answer
+               this.answers       = a;
+               this.correctAnswer = correct;
+            }
+        //you should really log out next time
+        //free minecraft acconts at my website www.meatspin.com
+        // -Fast Eddie
 
-            this.answers = a;
-            this.correctAnswer = correct;
-        }
 
-        private List<Question> questions = new List<Question>();
-        {
-          
 
-        }
-    Random rnd = new Random();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           // private List<Question> questions = new List<Question>();
+           
+    /*Random rnd = new Random();
 
     List<Question> possible = this.question.Where(n => n.category == categoryNum && n.level == levelNum).ToList();
 
@@ -67,27 +98,8 @@ qnum = 0;
          qnum = 0;
     
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    */
 
         }
     }
-}
+
